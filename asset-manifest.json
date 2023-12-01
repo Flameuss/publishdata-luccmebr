@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/publishdata-luccmebr/static/css/main.6329b3a2.chunk.css",
+    "main.js": "/publishdata-luccmebr/static/js/main.c9fe75fd.chunk.js",
+    "main.js.map": "/publishdata-luccmebr/static/js/main.c9fe75fd.chunk.js.map",
+    "runtime-main.js": "/publishdata-luccmebr/static/js/runtime-main.5ed9715a.js",
+    "runtime-main.js.map": "/publishdata-luccmebr/static/js/runtime-main.5ed9715a.js.map",
+    "static/js/2.103711c9.chunk.js": "/publishdata-luccmebr/static/js/2.103711c9.chunk.js",
+    "static/js/2.103711c9.chunk.js.map": "/publishdata-luccmebr/static/js/2.103711c9.chunk.js.map",
+    "index.html": "/publishdata-luccmebr/index.html",
+    "precache-manifest.f06d909bcc0efcf1ed1d875bf1933385.js": "/publishdata-luccmebr/precache-manifest.f06d909bcc0efcf1ed1d875bf1933385.js",
+    "service-worker.js": "/publishdata-luccmebr/service-worker.js",
+    "static/css/main.6329b3a2.chunk.css.map": "/publishdata-luccmebr/static/css/main.6329b3a2.chunk.css.map",
+    "static/js/2.103711c9.chunk.js.LICENSE.txt": "/publishdata-luccmebr/static/js/2.103711c9.chunk.js.LICENSE.txt",
+    "static/media/getFetch.cjs": "/publishdata-luccmebr/static/media/getFetch.013f0b90.cjs"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ed9715a.js",
+    "static/js/2.103711c9.chunk.js",
+    "static/css/main.6329b3a2.chunk.css",
+    "static/js/main.c9fe75fd.chunk.js"
+  ]
+}
